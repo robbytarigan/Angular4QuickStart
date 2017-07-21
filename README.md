@@ -1,3 +1,6 @@
+# Angular4QuickStart
+Tour of Heroes tutorial as per https://angular.io/tutorial but using ng cli for the setup.
+
 # Quickstart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.2.
